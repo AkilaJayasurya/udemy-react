@@ -47,15 +47,21 @@ udemy/
 ✨ Features
 
 Responsive UI design
+
 Reusable React components
+
 Dynamic layout using JSX
+
 Fully structured using React best practices
 
 
 🛠️ Tech Stack
 
 ReactJS
+
 HTML5
+
 CSS3
+
 Vercel (Deployment)
 
